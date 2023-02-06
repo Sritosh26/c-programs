@@ -1,0 +1,9 @@
+Ascii value
+#include<stdio.h>
+void main()
+{
+char ch;
+printf("enter ascii value");
+scanf("%c",&ch);
+printf("%d",ch);
+}
